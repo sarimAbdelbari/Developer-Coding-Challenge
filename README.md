@@ -2,6 +2,10 @@
 
 A modern, mobile-responsive React + TypeScript application for professional skip hire, built with Vite, Tailwind CSS, and Shadcn UI.
 
+## Demo Link 
+
+https://developer-coding-challenge.vercel.app/
+
 ## Features
 
 - **Step Progress Bar:** Visualizes the user's progress through the skip hire process.
